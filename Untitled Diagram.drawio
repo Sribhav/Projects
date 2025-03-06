@@ -172,7 +172,7 @@
         <mxCell id="E6jkqPbQKa4cJhccXn8V-131" value="City" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-90" y="651" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E6jkqPbQKa4cJhccXn8V-132" value="Name" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;fontStyle=4;align=center;" parent="1" vertex="1">
+        <mxCell id="E6jkqPbQKa4cJhccXn8V-132" value="Name" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;fontStyle=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="400" y="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E6jkqPbQKa4cJhccXn8V-136" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" target="E6jkqPbQKa4cJhccXn8V-61" edge="1">
