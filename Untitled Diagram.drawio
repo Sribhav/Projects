@@ -396,7 +396,7 @@
             <mxPoint x="380" y="-30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E6jkqPbQKa4cJhccXn8V-202" value="User ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="E6jkqPbQKa4cJhccXn8V-202" value="User ID" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="165" y="-185" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
