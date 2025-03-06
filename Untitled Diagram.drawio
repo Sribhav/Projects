@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.1.0">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="3290" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2825" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="840" y="585" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E6jkqPbQKa4cJhccXn8V-91" value="Seller" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=nYqYoQrnCQ-k;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="800" y="390" width="120" height="90" as="geometry" />
+          <mxGeometry x="790" y="390" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E6jkqPbQKa4cJhccXn8V-93" value="Buyer" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=oYqY3jGOQ7Ny;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="710" y="90" width="120" height="90" as="geometry" />
